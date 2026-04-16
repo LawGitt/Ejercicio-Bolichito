@@ -803,3 +803,17 @@
 {"level":"info","message":"⌛ Validating src/materiales.wlk","timeElapsed":196,"timestamp":"2026-04-16T03:36:32.560Z"}
 {"level":"info","message":"⌛ Validating src/colores.wlk","timeElapsed":126,"timestamp":"2026-04-16T03:36:32.686Z"}
 {"level":"info","message":"⌛ Validating src/bolichito.wlk","timeElapsed":150,"timestamp":"2026-04-16T03:36:32.837Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":769,"timestamp":"2026-04-16T03:44:46.616Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":419,"timestamp":"2026-04-16T03:44:47.041Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":395,"timestamp":"2026-04-16T03:44:47.513Z"}
+{"level":"info","message":"⌛ Validating src/objetos.wlk","timeElapsed":811,"timestamp":"2026-04-16T03:44:48.325Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":342,"timestamp":"2026-04-16T03:44:48.668Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":235,"timestamp":"2026-04-16T03:44:48.986Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":157,"timestamp":"2026-04-16T03:44:49.181Z"}
+{"level":"info","message":"⌛ Validating src/personas.wlk","timeElapsed":375,"timestamp":"2026-04-16T03:44:49.582Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":259,"timestamp":"2026-04-16T03:44:49.843Z"}
+{"level":"info","message":"⌛ Validating src/objetos.wlk","timeElapsed":189,"timestamp":"2026-04-16T03:44:50.081Z"}
+{"level":"info","message":"⌛ Validating src/personas.wlk","timeElapsed":174,"timestamp":"2026-04-16T03:44:50.255Z"}
+{"level":"info","message":"⌛ Validating src/materiales.wlk","timeElapsed":180,"timestamp":"2026-04-16T03:44:50.436Z"}
+{"level":"info","message":"⌛ Validating src/colores.wlk","timeElapsed":227,"timestamp":"2026-04-16T03:44:50.664Z"}
+{"level":"info","message":"⌛ Validating src/bolichito.wlk","timeElapsed":183,"timestamp":"2026-04-16T03:44:50.857Z"}
